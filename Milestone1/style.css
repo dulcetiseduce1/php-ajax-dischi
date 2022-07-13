@@ -1,0 +1,23 @@
+header {
+    background-color: #2E3A46;
+    height: 60px;
+  }
+  
+  body {
+    background-color: #1E2D3B;
+    color: white;
+  }
+  
+  .cards-container {
+    background-color: #2E3A46;
+    height: 100%;
+  }
+  
+  h6 {
+    color: grey;
+  }
+  
+  .img-card {
+    width: 100%;
+    aspect-ratio: 1;
+  }
